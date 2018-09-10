@@ -56,6 +56,10 @@ See [the english unit tests](https://github.com/adamwdraper/Numeral-js/blob/mast
 
 # Changelog
 
+### 2.0.7
+
+Bug fix: Merge fix for #512 from thmaterna/Numeral-js
+
 ### 2.0.6
 
 Bug fix: Multi letter currency symbols and spacing
